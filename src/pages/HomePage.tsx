@@ -17,7 +17,6 @@ const HomePage = () => {
       transition={{ duration: 0.5 }}
     >
       <Hero />
-      
       <AgeCategories />
       <Features />
       <TrainersPage/>
